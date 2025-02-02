@@ -3,6 +3,8 @@ A partir de dados de entrada basicos da geometria do motor e massa do foguete, o
 
 Um relatório mais completo com detalhamento das funções é disponibilizado junto ao código. É importante ler pelo menos as simplificações e considerações que foram realizadas.
 
+O código não está otimizado e realiza diversas operações desnecessárias, contudo estou disponibilizando antecipadamente para que outros possam melhorar e complementar o código.
+
 A versão inicial do software fornece resultados aproximados pois diversas aproximações e simplificações foram realizadas. Qualquer atualização e incremento ao software é incentivado.
 
 Caso uma nova versão seja criada, o autor pode me contatar através do email sarah.rodi@outlook.com que disponibilizarei nesse mesmo repositório, caso haja interesse.
